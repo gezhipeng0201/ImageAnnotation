@@ -12,7 +12,9 @@
 > - Refer to ***requirements.txt***
 ## 1.3 Quick Installation
 > ~~~ shell
-> git clone 
+> git clone https://github.com/gezhipeng0201/ImageAnnotation.git
+> cd ImageAnnotation
+> python ia.py
 > ~~~
 ## 2 Features
 > - [ ] Support multi-level file tree
